@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Playing with Gifs! 
+
+An app that allows you to search the giphy API for trending gifs and click to set favorites. 
+
+The standard create React app lingo below:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
