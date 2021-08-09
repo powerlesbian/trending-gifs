@@ -18,7 +18,7 @@ function App() {
   }, []);
 
   const searchGifs = async (searchText) => {
-    const response = await axios.get(`https://api.giphy.com/v1/gifs/search?api_key=r9lryrT1sb53mewKob2973KLcJiNh1bO&q=${searchText}`);
+    const response = await axios.get(`https://api.giphy.com/v1/gifs/search?api_key=EXcg3N1MInQC4wDdCETkGmUQNT3wouoO&q=${searchText}`);
     setGifs(response.data.data);
   }
 
