@@ -1,6 +1,10 @@
-# Playing with Gifs! 
+# Rendering out some info
 
-An app that allows you to search the giphy API for trending gifs and click to set favorites. 
+currently shows inspirational quotes. 
+
+Will add validation and pagination next. 
+
+forked from Ant's app that allows you to search the giphy API for trending gifs and click to set favorites. 
 
 The standard create React app lingo below:
 
