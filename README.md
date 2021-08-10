@@ -2,6 +2,9 @@
 
 currently shows inspirational quotes. 
 
+![Screenshot 2021-08-10 at 5 09 41 PM](https://user-images.githubusercontent.com/81912588/128842413-c4f278ff-9ddb-40c9-8a48-f4bb3d18c8bb.png)
+
+
 Will add validation and pagination next. 
 
 forked from Ant's app that allows you to search the giphy API for trending gifs and click to set favorites. 
